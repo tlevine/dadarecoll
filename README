@@ -1,0 +1,7 @@
+Dependencies
+
+    sudo pacman -S recoll libxslt unzip poppler pstotext \
+                   antiword catdoc unrtf djvulibre id3lib \
+                   python2 mutagen python2-pychm \
+                   perl-image-exiftool aspell-en
+
